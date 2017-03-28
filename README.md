@@ -1,5 +1,7 @@
 **Test maven wrapper project**
 
-Execute to build project
+Run 
 
 `mvnw.cmd clean package`
+
+to build project.
